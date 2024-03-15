@@ -1,6 +1,6 @@
-# CYBER-X WHATSAPP BOT
+# MY WHATSAPP BOT
 
-<p align = center>   <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="GIF" width="600" height="300"/> </p>
+<p align = center>   <img src="https://telegra.ph/file/244e8e2d0c206d15cd038.jpg" alt="GIF" width="600" height="300"/> </p>
 
 <p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
@@ -47,7 +47,7 @@
 
 ## Support
 
-For support, email darkalphaxteamofficial@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
+For support, email darkalphaxteamofficial@gmail.com or After deploying the bot you can join the MY support group by using the `.joinsup` command…
 
 
 ## Feedback
@@ -84,7 +84,7 @@ If you need this non Obb Script or Make you own script with me ( Money propose O
 This is the result of our team's hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances.
 
 
-## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
+## ⚖️  *MY DEVELOPER TEAM* *2K23*  ⚖️
 
 | <a href="https://github.com/darkalphaxteam"><img src="https://telegra.ph/file/c670792adfe0d44dc5a99.jpg" width=90 height=90></a> | <a href="https://github.com/chamiofficial"><img src="https://telegra.ph/file/d81e589b841d6fd5d05a1.jpg" width=90 height=90></a> | <a href="https://github.com/DarkMakerofc"><img src="https://telegra.ph/file/819659c83ab8438084234.jpg" width=90 height=90></a> | <a href="https://github.com/Niranjana45"><img src="https://telegra.ph/file/a7e379be9415cdf16c9df.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/976651bc865695c128228.jpg" width=90 height=90></a> |
 |---|---|---|---|---|---|
