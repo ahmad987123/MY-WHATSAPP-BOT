@@ -24,12 +24,12 @@
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
             "required": true,
-            "value": "mybot6540"
+            "value": "zakibot654098623ghjg2j34g23"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
